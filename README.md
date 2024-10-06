@@ -54,7 +54,7 @@ The dataset used in this project contains clinical and laboratory information of
 
 ## **Project Structure**
 
-- `pAPS_.ipynb`: The main Jupyter notebook containing the data preprocessing, machine learning model training, evaluation metrics, and SHAP analysis.
+- `pAPS.ipynb`: The main Jupyter notebook containing the data preprocessing, machine learning model training, evaluation metrics, and SHAP analysis.
 - `data/`: Placeholder for data files (data not included due to privacy concerns).
 - `README.md`: This README file.
 
