@@ -46,7 +46,7 @@ The dataset used in this project contains clinical and laboratory information of
 1. **Open the Jupyter notebook:**
    You can launch the notebook by running the following command:
    ```bash
-   jupyter notebook pAPS_.ipynb
+   jupyter notebook pAPS.ipynb
 
 2. **Run the notebook:** Execute the cells to perform data preprocessing, model training, evaluation, and SHAP analysis.
 
