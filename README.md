@@ -1,6 +1,6 @@
 # **ML for Predicting Hematological Activity in APS Patients**
 
-This repository contains the Jupyter notebook `pAPS_.ipynb`, which uses machine learning classifiers to predict **hematological activity** in **Antiphospholipid Syndrome (APS)** patients. This project leverages clinical and laboratory data to improve predictions and incorporates **SHAP (SHapley Additive exPlanations)** to explain model predictions.
+This repository contains the Jupyter notebook `pAPS.ipynb`, which uses machine learning classifiers to predict **hematological activity** in **Antiphospholipid Syndrome (APS)** patients. This project leverages clinical and laboratory data to improve predictions and incorporates **SHAP (SHapley Additive exPlanations)** to explain model predictions.
 
 ## **Overview**
 
